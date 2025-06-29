@@ -55,4 +55,5 @@ This dashboard offers researchers, policymakers, and environmentalists a fast wa
 | `Project Summary.pdf` | Project summary slide deck (PDF)         |
 | `bee_colonies.py`             | Main Dash app source code                  |
 | `intro_bees.csv`              | USDA bee colony dataset                    |
+| `requirements.txt`              | Python dependencies (Pandas, Dash, Plotly)|
 
